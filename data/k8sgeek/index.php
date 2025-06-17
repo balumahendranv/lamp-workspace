@@ -1,0 +1,1 @@
+<?php echo 'Hello from k8sgeek on port 8590'; ?>
